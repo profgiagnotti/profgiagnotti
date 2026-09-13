@@ -1,11 +1,29 @@
 # Benvenuto su Prof. Giagnotti 👋
 
-**Informatica senza scorciatoie. Impara come funziona davvero.**
+**Risorse di Informatica**
 
-Risorse tecniche ad alto livello per studenti universitari e autodidatti.
-Teoria approfondita + laboratori pratici su tre aree principali:
+Risorse didattiche, progetti pratici e guide approfondite per studenti 
+Teoria approfondita + laboratori pratici su sette aree principali:
 
 ---
+## 🌐 Sistemi e Reti
+Protocolli TCP/IP in profondità, Linux internals, kernel,
+routing, DNS, BGP e architetture distribuite.
+
+## ⚙️ Tecnologia e Progettazione di Sistemi
+Dalle codifiche ai processi fino alle Web Applications
+
+## 💻 Informatica
+Dagli algoritmi ai linguaggi per il Web fino alla realizzazione 
+delle Basi di Dati
+
+## 📊 GPOI
+Dai principi di economia all'organizzazione aziendale fino 
+all'utilizzo di strumenti come Project
+
+## 🛜 Informatica e Reti
+Introduzione all'informatica, rappresentazione dei dati, 
+basi di programmazione e reti di calcolatori
 
 ## 🔐 Cybersecurity & Ethical Hacking
 Penetration testing, CTF writeup, analisi del traffico di rete,
@@ -14,10 +32,6 @@ exploit development e sicurezza dei sistemi.
 ## 🤖 AI / Machine Learning / Data Engineering
 Reti neurali dalla matematica al codice, pipeline di dati,
 NLP, computer vision e applicazioni reali in Python.
-
-## 🌐 Networking, OS & Architetture di Sistema
-Protocolli TCP/IP in profondità, Linux internals, kernel,
-routing, DNS, BGP e architetture distribuite.
 
 ---
 
