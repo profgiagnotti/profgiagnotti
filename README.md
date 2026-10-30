@@ -43,7 +43,7 @@ Percorsi dedicati per studenti ITS - corsi professionalizzanti.
 | [informatica-labs](../informatica-labs/README.md) | Laboratori creazione DB | 💻 Informatica |
 | [gpoi-labs](../gpoi-labs/README.md) | Cheatsheet rapidi su tool e protocolli | 📊 GPOI |
 | [cyber-labs](../cyber-labs/README.md) | Lab pratici di ethical hacking | 🔐 Cyber |
-| [ITS](../CORSI-ITS/README.md) | Lab per Corsi professionalizzanti | 🤖 ITS |
+| [ITS](https://github.com/profgiagnotti/profgiagnotti/blob/main/README.md) | Lab per Corsi professionalizzanti | 🤖 ITS |
 
 ---
 
