@@ -39,11 +39,11 @@ Percorsi dedicati per studenti ITS - corsi professionalizzanti.
 | Repository | Descrizione | Area |
 |---|---|---|
 | [networking-labs](https://github.com/profgiagnotti/networking-labs/blob/main/README.md) | Simulazioni di rete e configurazioni | 🌐 Networking |
-| [tecnologia-labs](https://github.com/profgiagnotti/Tecnologia-Labs/blob/main/README.md) | Tecnologie per lo sviluppo Web | ⚙️ Tecnologia |
+| [tecnologia-labs](https://github.com/profgiagnotti/Tecnologia-Labs/blob/main/README.md) | Tecnologie per l'informatica | ⚙️ Tecnologia |
 | [informatica-labs](https://github.com/profgiagnotti/InformaticaReti-labs/blob/main/README.md) | Laboratori creazione DB | 💻 Informatica |
-| [gpoi-labs](https://github.com/profgiagnotti/guide-labs/blob/main/README.md) | Cheatsheet rapidi su tool e protocolli | 📊 GPOI |
+| [guide-labs](https://github.com/profgiagnotti/guide-labs/blob/main/README.md) | Laboratori su Sviluppo Web | 📊 GPOI |
 | [cyber-labs](https://github.com/profgiagnotti/cyber-labs/blob/main/README.md) | Lab pratici di ethical hacking | 🔐 Cyber |
-| [ITS](https://github.com/profgiagnotti/profgiagnotti/blob/main/README.md) | Lab per Corsi professionalizzanti | 🤖 ITS |
+| [ITS](https://github.com/profgiagnotti/CORSI-ITS/blob/main/README.md) | Lab per Corsi professionalizzanti | 🤖 ITS |
 
 ---
 
