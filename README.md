@@ -41,7 +41,7 @@ Percorsi dedicati per studenti ITS - corsi professionalizzanti.
 | [networking-labs](../networking-labs/) | Simulazioni di rete e configurazioni | 🌐 Networking |
 | [tecnologia-labs](../tecnologia-labs/README.md) | Tecnologie per lo sviluppo Web | ⚙️ Tecnologia |
 | [informatica-labs](../informatica-labs/README.md) | Laboratori creazione DB | 💻 Informatica |
-| [gpoi-labs](../gpoi-labs/README.md | Cheatsheet rapidi su tool e protocolli | 📊 GPOI |
+| [gpoi-labs](../gpoi-labs/README.md) | Cheatsheet rapidi su tool e protocolli | 📊 GPOI |
 | [cyber-labs](../cyber-labs/README.md) | Lab pratici di ethical hacking | 🔐 Cyber |
 | [ITS](../CORSI-ITS/README.md) | Lab per Corsi professionalizzanti | 🤖 ITS |
 
