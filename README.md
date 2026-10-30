@@ -29,9 +29,8 @@ basi di programmazione e reti di calcolatori
 Penetration testing, CTF writeup, analisi del traffico di rete,
 exploit development e sicurezza dei sistemi.
 
-## 🤖 AI / Machine Learning / Data Engineering
-Reti neurali dalla matematica al codice, pipeline di dati,
-NLP, computer vision e applicazioni reali in Python.
+## 🤖 ITS 
+Percorsi dedicati per studenti ITS - corsi professionalizzanti.
 
 ---
 
@@ -39,19 +38,21 @@ NLP, computer vision e applicazioni reali in Python.
 
 | Repository | Descrizione | Area |
 |---|---|---|
-| [networking-labs](https://github.com/profgiagnotti/networking-labs) | Simulazioni di rete e configurazioni | 🌐 Networking |
-| [tecnologia-labs](https://github.com/profgiagnotti/tecnologia-labs) | Tecnologie per lo sviluppo Web | ⚙️ Tecnologia |
-| [cheatsheets](https://github.com/profgiagnotti/cheatsheets) | Cheatsheet rapidi su tool e protocolli | 📄 Tutti |
-| [cyber-labs](https://github.com/profgiagnotti/cyber-labs) | Lab pratici di ethical hacking | 🔐 Cyber |
-| [ml-notebooks](https://github.com/profgiagnotti/ml-notebooks) | Notebook Jupyter commentati in italiano | 🤖 AI/ML |
+| [networking-labs](../networking-labs/) | Simulazioni di rete e configurazioni | 🌐 Networking |
+| [tecnologia-labs](../tecnologia-labs/README.md) | Tecnologie per lo sviluppo Web | ⚙️ Tecnologia |
+| [informatica-labs](../informatica-labs/README.md) | Laboratori creazione DB | 💻 Informatica |
+| [gpoi-labs](../gpoi-labs/README.md | Cheatsheet rapidi su tool e protocolli | 📊 GPOI |
+| [cyber-labs](../cyber-labs/README.md) | Lab pratici di ethical hacking | 🔐 Cyber |
+| [ITS](../CORSI-ITS/README.md) | Lab per Corsi professionalizzanti | 🤖 ITS |
 
 ---
 
 ## 🔗 Seguimi
 
-- 🌐 **Sito web:** [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
-- ▶️ **YouTube:** [Prof. Giagnotti](https://youtube.com/@profgiagnotti)
-- 💼 **LinkedIn:** [linkedin.com/in/profgiagnotti](https://www.linkedin.com/in/mariogiagnotti/)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
+- ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)
 
 ---
 
